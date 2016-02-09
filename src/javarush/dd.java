@@ -14,11 +14,11 @@ public class dd {
     for(int i = 0;i<array1.length;i++){
         array1[i]= Integer.parseInt(reader.readLine());
     }
-    for(int i=0;i<array1.length;i++){
-        int x=1;
-        array1[i]= array1.length-x;
-        x++;
-    }
+    int array[] = array1.clone();
+        for(int i =0;i<array1.length;i++){
+            array[i]= array1[9-i];
+        }
+        array1=array;
     for(int x:array1){
         System.out.println(x);
     }
