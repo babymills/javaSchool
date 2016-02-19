@@ -29,7 +29,7 @@ public class HW6_6 {
                     System.out.print(mass[i] + " ");
                     numb1 = 1;
                 }
-            }
+              }
         }
         if (numb1 == 0) System.out.println("I am sorry");
     }

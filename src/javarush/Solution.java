@@ -1,5 +1,7 @@
 package javarush;
 
+import java.util.ArrayList;
+
 /**
  * Created by pc on 29.01.2016.
  */
@@ -14,4 +16,6 @@ public class Solution {
         a3.fight(a);
 
     }
+
+
 }
