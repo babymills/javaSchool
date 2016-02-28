@@ -7,7 +7,7 @@ import com.mysql.fabric.jdbc.FabricMySQLDriver;
  * Created by pc on 17.02.2016.
  */
 public class Main {
-    private static final String URL = "jdbc:mysql://localhost:3306/mydb";
+    private static final String URL = "jdbc:mysql://localhost:3306/mybd";
     private static final String USERNAME = "root";
     private static final String PASSWORD = "root";
     public static void main(String[] args) {
