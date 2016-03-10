@@ -1,4 +1,4 @@
-package Less18oct;
+package Interf;
 
 /**
  * Created by IT_School on 18.10.2015.

@@ -1,4 +1,4 @@
-package SortMoney;
+package Sort.SortMoney;
 
 /**
  * Created by Катя on 27.10.2015.

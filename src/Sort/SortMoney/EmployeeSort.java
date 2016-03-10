@@ -1,4 +1,4 @@
-package SortMoney;
+package Sort.SortMoney;
 
 import java.util.Arrays;
 
