@@ -5,3 +5,4 @@ package RAZNOE;
  */
 public class Aaaa {
 }
+class B{}
