@@ -6,7 +6,7 @@ package Exception;
 public class app05 {
     public static void main(String[] args) {
         try{
-           int area = area(-1000000,2000000);
+           int area = area(-10,200);
             System.out.println(area);
         }catch (IllegalArgumentException e){
             System.out.println("bad "+e);

@@ -5,9 +5,11 @@ public class App00001 {
         System.out.println("f;before");
         try {
             f();
-        } finally {
+        }catch (Exception e){
+            /*finally {
             System.out.println("f:finally");
-        }
+        }*/
+            System.out.println("catch");}
         System.out.println("f:after");
     }
     private static void f() {

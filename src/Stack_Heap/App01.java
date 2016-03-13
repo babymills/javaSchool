@@ -12,12 +12,12 @@ public class App01 {
     public static void main(String[] arg) {
         IntHolder x = new IntHolder();
         IntHolder y = x;
-        x.value=1;
+        x.value=2;
         System.out.println(x.value);
         System.out.println(y.value);
         //BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println(4|3);
-        System.out.println(4|3);
+       // System.out.println(4|3);
+        //System.out.println(4|3);
 
 
     }
